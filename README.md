@@ -55,7 +55,7 @@ I'm a passionate **Frontend Developer** and creative tech enthusiast dedicated t
 *Empowering non-profits with digital solutions*
 - **Description:** A comprehensive platform designed to help NGOs manage operations, volunteers, and social impact
 - **Tech Stack:** HTML5, CSS3, JavaScript, React.js
-- **GitHub:** [View Repository](https://github.com/Ayushi753)
+- **GitHub:** [View Repository](https://github.com/Ayushi753/ngo-portal)
 - **Impact:** Streamlines NGO workflows and increases volunteer engagement
 
 ### 🥗 Nourish U - SelfCare
@@ -63,8 +63,15 @@ I'm a passionate **Frontend Developer** and creative tech enthusiast dedicated t
 - **Description:** A health-focused web app promoting self-care, nutrition, and mental wellness awareness
 - **Role:** Frontend Development
 - **Tech Stack:** HTML5, CSS3, JavaScript, React.js
-- **GitHub:** [View Repository](https://github.com/Ayushi753)
+- **GitHub:** [View Repository](https://github.com/Ayushi753/NourishU--website)
 - **Impact:** Helping users build healthier habits and lifestyles
+
+### 🦅 Garuda Drishti
+*College 3rd Year Mini Project*
+- **Description:** An innovative project built during 3rd year mini project phase
+- **Tech Stack:** Frontend Development
+- **GitHub:** [View Repository](https://github.com/Ayushi753/GarudaDrishti-)
+- **Learning:** Hands-on experience with full project development lifecycle
 
 ---
 
@@ -94,7 +101,7 @@ I'm a passionate **Frontend Developer** and creative tech enthusiast dedicated t
 - 💼 **LinkedIn:** [Ayushi Pandey](https://www.linkedin.com/in/ayushi-pandey-413831305)
 - 💻 **GitHub:** [@Ayushi753](https://github.com/Ayushi753)
 - 📧 **Email:** [pandeyayushi282@gmail.com](mailto:pandeyayushi282@gmail.com)
-- 📺 **YouTube:** [Subscribe to my channel!](https://youtube.com/@yourYouTubeHandle)
+- 📺 **YouTube:** [Ayushi Journal](https://youtube.com/@ayushii.journal?si=q0hOuw0EV81HNhpv)
 
 ---
 
