@@ -24,6 +24,19 @@ I'm a passionate **Frontend Developer** and creative tech enthusiast dedicated t
 
 ---
 
+## 📚 Academic Performance
+
+| Semester | SGPA | Year |
+|----------|------|------|
+| 1st Sem | 8.69 | 1st Year |
+| 2nd Sem | 8.5 | 1st Year |
+| 3rd Sem | 8.4 | 2nd Year |
+| 4th Sem | 8.1 | 2nd Year |
+
+**Cumulative Performance:** Consistent academic excellence with strong grades throughout first and second year! 🌟
+
+---
+
 ## 💻 Technical Skills (Learning Phase)
 
 **Frontend Technologies (Learning):**
